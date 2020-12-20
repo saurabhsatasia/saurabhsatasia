@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=saurabhsatasia&&show_icons=true&theme=highcontrast"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsatasia&theme=highcontrast"/>
+![Profile views](https://gpvc.arturio.dev/saurabhsatasia)  
 
 <!--
 **saurabhsatasia/saurabhsatasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
